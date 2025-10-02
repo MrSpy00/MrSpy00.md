@@ -1,7 +1,4 @@
-<h2> Hello Planet!       <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-\n
-\n
-
+<h2> Hello Planet!       <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 
 **Github Stats:** <br /> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MrSpy00&theme=dark&show_icons=true" alt="MrSpy00Stats" /> <br /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSpy00&layout=compact&theme=dark" alt="top-langs" /> </p>
@@ -28,8 +25,5 @@
 
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-
-
 
 
