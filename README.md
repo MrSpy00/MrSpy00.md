@@ -1,9 +1,9 @@
 <h2> Hello Planet!       <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
 
-**Github Stats:** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">   <br /> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MrSpy00&theme=dark&show_icons=true" alt="MrSpy00Stats" /> <br /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSpy00&layout=compact&theme=dark" alt="top-langs" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSpy00&theme=dark" alt="More Stats" /></p>
-<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=MrSpy00&theme=dark&column=8" alt="aegis" />
+**Github Stats:** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">   <br /> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MrSpy00&theme=dark&show_icons=true" alt="MrSpy00Stats" /> <br /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSpy00&layout=compact&theme=dark" alt="top-langs" /> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSpy00&theme=dark" alt="More Stats" />
+<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=MrSpy00&theme=onedark&column=8" alt="aegis" />
 
 
 - **Portfolio Website:** [Portfolio Soon!]()
